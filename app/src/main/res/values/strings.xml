@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Okee</string>
+    <string name="lgn">Login</string>
+    <string name="home">Hello Welcome</string>
+    <string name="user">UserName</string>
+    <string name="pw">Password</string>
+    <string name="btn">LOGIN</string>
+    <string name="sgn">SignUp</string>
+    <string name="nama">Name</string>
+    <string name="sandi">Reset Password</string>
+    <string name="regis">Register</string>
+    <string name="menu_register" translatable="false">Menu Register</string>
+    <string name="menu_login" translatable="false">Menu Login</string>
+</resources>

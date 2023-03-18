@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Okee</string>
+    <string name="lgn">Login</string>
+    <string name="home">Hello Welcome</string>
+    <string name="user">Username</string>
+    <string name="pw">Password</string>
+    <string name="btn">LOGIN</string>
+    <string name="sgn">SignUp</string>
+    <string name="nama">Name</string>
+    <string name="sandi">Reset Password</string>
+    <string name="regis">Register</string>
+</resources>

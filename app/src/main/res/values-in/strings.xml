@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Okee</string>
+    <string name="lgn">Masuk</string>
+    <string name="home">Halo Selamat Datang</string>
+    <string name="user">Nama Pengguna</string>
+    <string name="pw">Kata Sandi</string>
+    <string name="btn">MASUK</string>
+    <string name="sgn">Dafar</string>
+    <string name="nama">Nama</string>
+    <string name="sandi">Ulang Sandi</string>
+    <string name="regis">Register</string>
+</resources>

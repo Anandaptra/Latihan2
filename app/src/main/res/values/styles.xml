@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="loginyah">
+        <item name="android:textSize">31sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="edityah">
+        <item name="android:textSize">21sp</item>
+    </style>
+
+    <style name="daftar">
+        <item name="android:textSize">15sp</item>
+    </style>
+
+    <style name="registernih">
+        <item name="android:textSize">15sp</item>
+
+    </style>
+</resources>
